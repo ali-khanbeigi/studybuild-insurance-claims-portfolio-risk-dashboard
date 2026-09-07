@@ -214,7 +214,8 @@ Provides:
 ---
 
 ## Page 2 — Claims & Risk Segments
-![Claims & Risk Segments](figures/claims_risk_segments.png)
+![Claims & Risk Segments](figures/Claims_Risk_Segments.png)
+
 Provides:
 
 - Claim Frequency by Driver Age
@@ -224,12 +225,12 @@ Provides:
 - Policy Count as segment-size context
 - Region and fuel filters
 
-![Claims & Risk Segments](figures/claims_risk_segments.png)
 
 ---
 
 ## Page 3 — Claim Cost Concentration & Large Claims
-![Claim Cost Concentration](figures/claim_cost_concentration.png)
+![Claim Cost Concentration](figures/Claim_Cost_Concentration.png)
+
 Provides:
 
 - Extreme Claim Count
@@ -239,7 +240,6 @@ Provides:
 - Top 10 highest-cost claims
 - Management recommendations
 
-![Claim Cost Concentration](figures/claim_cost_concentration.png)
 
 ---
 
