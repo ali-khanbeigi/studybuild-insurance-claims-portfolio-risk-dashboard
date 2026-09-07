@@ -196,7 +196,8 @@ These claims were flagged for business review and were not interpreted as eviden
 The final Tableau solution contains three dashboard pages.
 
 ## Page 1 — Executive Portfolio Overview
-![Executive Portfolio Overview]([figures/executive_portfolio_overview.png](https://github.com/ali-khanbeigi/studybuild-insurance-claims-portfolio-risk-dashboard/blob/main/figures/Executive_Portfolio_Overview.png))
+![Executive Portfolio Overview](figures/Executive_Portfolio_Overview.png)
+
 Provides:
 
 - Policy Count
@@ -208,7 +209,6 @@ Provides:
 - Claim Frequency by Region
 - Claim Frequency by Bonus-Malus Group
 - Interactive filters
-![Executive Portfolio Overview]((https://github.com/ali-khanbeigi/studybuild-insurance-claims-portfolio-risk-dashboard/blob/main/figures/Executive_Portfolio_Overview.png))
 
 
 ---
