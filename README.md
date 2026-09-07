@@ -196,7 +196,7 @@ These claims were flagged for business review and were not interpreted as eviden
 The final Tableau solution contains three dashboard pages.
 
 ## Page 1 — Executive Portfolio Overview
-![Executive Portfolio Overview](figures/executive_portfolio_overview.png)
+![executive_portfolio_overview](figures/executive_portfolio_overview.png)
 Provides:
 
 - Policy Count
