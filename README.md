@@ -88,6 +88,26 @@ The workflow included:
 Large claims were retained and investigated rather than automatically removed as outliers.
 
 ---
+## Analytical Choices
+
+### Segment Boundaries
+
+Driver age, vehicle age, and Bonus-Malus variables were grouped into interpretable business segments to support comparison across the portfolio.
+
+The selected boundaries were designed to balance two goals:
+
+- preserve meaningful differences between risk groups
+- avoid creating excessively small categories with unstable KPIs
+
+These groups are used for descriptive portfolio analysis and should not be interpreted as actuarial pricing classes.
+
+### Extreme-Claim Threshold
+
+The **99.9th percentile of ClaimAmount** was selected as a conservative analytical threshold for identifying only the most extreme tail of the claim-cost distribution.
+
+The threshold is used to flag unusually large claims for investigation and management reporting, not to remove observations or classify them as errors or fraud.
+
+Because the threshold is distribution-based, it should be recalculated when new reporting-cycle data becomes available.
 
 ## Core Insurance KPIs
 
